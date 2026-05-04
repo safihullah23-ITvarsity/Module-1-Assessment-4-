@@ -1,0 +1,17 @@
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black; 
+}
+
+th{
+    font-weight: 800;
+    background-color: #2695A6;
+    color: black;
+}
+
+td{
+    font-family:cursive;
+}
